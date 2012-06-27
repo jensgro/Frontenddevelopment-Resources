@@ -1,6 +1,7 @@
 HTML5, CSS3 and Web Development Resources
 =========================================
 
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Sir_Pepe&url=https://github.com/SirPepe/HTML5Resources&title=HTML5Resources&language=de&tags=github&category=images)
 
 Documentation and specifications
 --------------------------------
