@@ -70,6 +70,7 @@ JavaScript libraries
 CSS3 click & run
 ------------------------------------
 
+- [CSS3 Please](http://css3please.com/) - The Cross-Browser CSS3 Rule Generator
 - [css3.mikeplate.com](http://css3.mikeplate.com/) - border-radius, box-shadow, text-shadow, transforms, columns, gradients, border, outline, multiple backgrounds 
 - [CSS3Maker](http://www.css3maker.com/) - border-radius, gradients, transforms, animations, transition, rgba, text-shadow, box-shadow, text-rotation, @font-face
 - [CSS3 Animations](http://westciv.com/tools/animations/)
