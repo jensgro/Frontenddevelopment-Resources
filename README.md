@@ -49,6 +49,7 @@ Compatibility tables
 - [ECMAScript 5 compatibility table](http://kangax.github.com/es5-compat-table/)
 - [CSS3 Click-chart](http://css3clickchart.com/)
 - [HTML5please](http://html5please.com/)
+- [MobileHTML5.org](http://mobilehtml5.org/) - Which feature is supported from which mobile device?
 
 
 Cheat sheets
@@ -56,6 +57,7 @@ Cheat sheets
 
 - [HTML5 Security Cheatsheet](http://html5sec.org/)
 - [HTML5 Canvas Cheat Sheet](http://blog.nihilogic.dk/2009/02/html5-canvas-cheat-sheet.html)
+- [Animatable Properties](http://oli.jp/2010/css-animatable-properties/) - Which properties can be animated with CSS3?
 
 
 JavaScript libraries
