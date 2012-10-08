@@ -23,6 +23,9 @@ Basics about JavaScript
 - [Einführung in JavaScript](http://molily.de/js/) - German
 - [Die Grundlagen von JavaScript](http://molily.de/javascript-core/) - German
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [JavaScript For Cats](http://jsforcats.com/)
+- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/JavaScript/Guide) - Basic tutorials by Mozilla.
+- [Javascript Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners) - 21 tutorial videos by Microsoft.
 
 
 Single articles of importance
@@ -131,6 +134,7 @@ Demos and experiments
 - [Demos and Experiments by Mozilla](https://developer.mozilla.org/de/demos/)
 - [ZURB Playground](http://www.zurb.com/playground)
 - [The Web rocks!](http://thewebrocks.com/demos/) -  Demos made by Chris Heilmann
+- [html5-demos.appspot.com](http://html5-demos.appspot.com/)
 
 
 Performance
@@ -156,3 +160,4 @@ Basic infos about CSS and HTML
 - [CSS-Discuss Wiki](http://css-discuss.incutio.com/wiki/Main_Page) - Wiki of the internationally used mailing-list "css-discuss".
 - [Reine Formsache](http://www.einfach-fuer-alle.de/artikel/barrierefreie-formulare/) - German - Umfangreiche Darstellung über die wichtigsten Aspekte der Erstellung und Gestaltung von Formularen
 - [All about floats](http://css-tricks.com/all-about-floats/)
+- [HTML5 & CSS3 Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners) - 21 videos from Microsoft about frontend development.
