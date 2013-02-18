@@ -85,14 +85,17 @@ CSS3 click & run
 Tools
 ------------------------------------
 
-- [jsFiddle](http://jsfiddle.net/) - JavaScript sandbox
-- [Dabblet](http://dabblet.com/) - CSS sandbox
-- [JSBin](http://jsbin.com/) - JavaScript sandbox - livecoding
+- [jsFiddle](http://jsfiddle.net/) - CSS-/JS-sandbox
+- [Dabblet](http://dabblet.com/) - CSS-sandbox
+- [JSBin](http://jsbin.com/) - CSS-/JS-sandbox - livecoding  
+- [Codepen](http://codepen.io/) - CSS-/JS-sandbox - livecoding
 
 - [CSS-Selectors](http://twostepmedia.co.uk/cssselectors/) - test the new CSS3-selectors with an example-text
 - [CSS3 structural pseudo-class selector tester](http://lea.verou.me/demos/nth.html) - testing the new pseudoclasses	:nth-child, - :nth-last-child, :nth-of-type and :nth-last-of-type
 - [DataURI-converter](http://boazsender.github.com/datauri/) - Drag an image inside your browser and grab the data-uri. Unfortunataly this technique doesn't work in IE preceding version 8.
 - [rgab-argb-converter](http://beijingyoung.com/articles/rgba-argb-converter/) - Convert rgba to a hex-color that you can insert into an IE-filter.
+- [htaccess-editor](http://www.htaccesseditor.com/)
+- [Table styler](http://tablestyler.com/)
 
 
 Guides and coding standards
@@ -102,15 +105,25 @@ Guides and coding standards
 - [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
 - [Front-end Code Standards & Best Practices](http://na.isobar.com/standards/)
 
+
 Accessibility
 ------------------------------------
 
 - [Yahoo! Accessibiliy Blog](http://yaccessibilityblog.com/)
-- [WCAG 2.0](http://www.w3.org/TR/2008/REC-WCAG20-20081211/) - English
-- [WCAG 2.0](http://www.w3.org/Translations/WCAG20-de/) - German 
-- [WCAG2 Techniques](http://www.w3.org/TR/2012/NOTE-WCAG20-TECHS-20120103/) - English 
-- [WCAG2 Techniken](http://www.einfach-fuer-alle.de/wcag2.0/uebersetzungen/WCAG20-TECHS/) - German 
-- [WCAG 2.0 im Überblick](http://www.einfach-fuer-alle.de/artikel/wcag-einfuehrung/) - German
+- [Yahoo! Accessibility Library](http://yaccessibilityblog.com/library/)
+- [WCAG 2.0](http://www.w3.org/TR/2008/REC-WCAG20-20081211/) 
+- [WCAG2 Techniques](http://www.w3.org/TR/2012/NOTE-WCAG20-TECHS-20120103/)
+- [Using WAI-ARIA in HTML](http://www.w3.org/TR/2013/WD-aria-in-html-20130214/)
+- [The Accessibility Project](http://a11yproject.com/)
+- [WCAG Cheat Sheet](http://worksperfectly.net/wcag/)
+
+
+German Accessibility Ressources
+------------------------------------
+
+- [WCAG 2.0](http://www.w3.org/Translations/WCAG20-de/) 
+- [WCAG2 Techniken](http://www.einfach-fuer-alle.de/wcag2.0/uebersetzungen/WCAG20-TECHS/) 
+- [WCAG 2.0 im Überblick](http://www.einfach-fuer-alle.de/artikel/wcag-einfuehrung/) 
 
 
 Browser-specific informations
@@ -141,6 +154,10 @@ Performance
 ------------------------------------
 
 - [Book of speed](http://www.bookofspeed.com/)
+- [Faster Websites: Crash Course on Web Performance](http://www.igvita.com/2013/01/15/faster-websites-crash-course-on-web-performance/)
+- [Web Performance 101: An opinionated guide to the 22 links every developer should read](http://www.webperformancetoday.com/2013/01/31/web-performance-101-developers/)
+- [14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
+- [Ladezeitenoptimierung](http://www.der-schepp.de/wpo-slides-sept-2012/) - German
 
 
 jQuery
@@ -161,3 +178,18 @@ Basic infos about CSS and HTML
 - [Reine Formsache](http://www.einfach-fuer-alle.de/artikel/barrierefreie-formulare/) - German - Umfangreiche Darstellung über die wichtigsten Aspekte der Erstellung und Gestaltung von Formularen
 - [All about floats](http://css-tricks.com/all-about-floats/)
 - [HTML5 & CSS3 Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners) - 21 videos from Microsoft about frontend development.
+
+
+Sass and Compass
+------------------------------------
+
+- [Sass - project page](http://sass-lang.com/)
+- [Compass - project page](http://compass-style.org/)
+- [Bourbon - collection of mixins](http://bourbon.io/)
+- [Zocial - CSS3 buttons](http://zocialbuttons.com/)
+- [Stitch - a CSS pattern framework for Compass](http://stitchcss.com/)
+- [Sassy buttons](http://jaredhardy.com/sassy-buttons/)
+- [Sassmeister - convert Sass into CSS online for demo purposes](http://sassmeister.com/)
+- [Presentation of Chris Eppstein about technical details of Sass and Compass](http://sass-can-do-that.herokuapp.com/)
+- [Compass Reference Browser](http://compass.aether.ru/)
+- [Better Sass Docs](http://www.kaelig.fr/bettersassdocs/)
