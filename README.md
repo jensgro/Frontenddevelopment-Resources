@@ -16,6 +16,19 @@ Documentations and specifications
 - [HTML5rocks](http://www.html5rocks.com/en/)
 
 
+Basic infos about CSS and HTML
+------------------------------------
+
+- [The Shapes of CSS](http://css-tricks.com/examples/ShapesOfCSS/) - Build hearts and other shapes only with CSS. 
+- [CSS-101](http://www.css-101.org/) Basic informations about CSS with little tests.
+- [CSS-Discuss Wiki](http://css-discuss.incutio.com/wiki/Main_Page) - Wiki of the internationally used mailing-list "css-discuss".
+- [Reine Formsache](http://www.einfach-fuer-alle.de/artikel/barrierefreie-formulare/) - German - Umfangreiche Darstellung über die wichtigsten Aspekte der Erstellung und Gestaltung von Formularen
+- [All about floats](http://css-tricks.com/all-about-floats/)
+- [HTML5 & CSS3 Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners) - 21 videos from Microsoft about frontend development.
+- [Learn CSS Layout](http://learnlayout.com/)
+- [Web Do's and Don'ts](http://webdosanddonts.com/)
+- [An Advanced Guide to HTML &amp; CSS](http://learn.shayhowe.com/advanced-html-css/)
+
 Basics about JavaScript
 ------------------------------------
 
@@ -26,6 +39,56 @@ Basics about JavaScript
 - [JavaScript For Cats](http://jsforcats.com/)
 - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/JavaScript/Guide) - Basic tutorials by Mozilla.
 - [Javascript Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners) - 21 tutorial videos by Microsoft.
+
+
+JavaScript libraries
+------------------------------------
+
+- [html5shiv](http://code.google.com/p/html5shiv/) - Enables the new HTML5 elements in IE < 9
+- [Prefix Free](http://leaverou.github.com/prefixfree/) - Automatic vendor prefixes for CSS3
+- [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
+- [JSWiki](https://github.com/bebraw/jswiki/wiki) - huge linklist
+
+
+jQuery
+------------------------------------
+
+- [jQuery Fundamentals](http://jqfundamentals.com/)
+- [jQuery Selectors](http://codylindley.com/jqueryselectors/) - test all the possible jQuery selectors on one page
+- [jQAPI - Alternative jQuery Documentation](http://jqapi.com/)
+- [Commonly Confused Bits Of jQuery](http://coding.smashingmagazine.com/2010/08/04/commonly-confused-bits-of-jquery/)
+
+
+Accessibility
+------------------------------------
+
+- [Yahoo! Accessibiliy Blog](http://yaccessibilityblog.com/)
+- [Yahoo! Accessibility Library](http://yaccessibilityblog.com/library/)
+- [WCAG 2.0](http://www.w3.org/TR/2008/REC-WCAG20-20081211/) 
+- [WCAG2 Techniques](http://www.w3.org/TR/2012/NOTE-WCAG20-TECHS-20120103/)
+- [Using WAI-ARIA in HTML](http://www.w3.org/TR/2013/WD-aria-in-html-20130214/)
+- [The Accessibility Project](http://a11yproject.com/)
+- [WCAG Cheat Sheet](http://worksperfectly.net/wcag/)
+
+
+German Accessibility Ressources
+------------------------------------
+
+- [WCAG 2.0](http://www.w3.org/Translations/WCAG20-de/) 
+- [WCAG2 Techniken](http://www.einfach-fuer-alle.de/wcag2.0/uebersetzungen/WCAG20-TECHS/) 
+- [WCAG 2.0 im Überblick](http://www.einfach-fuer-alle.de/artikel/wcag-einfuehrung/) 
+
+
+Browser-specific informations
+------------------------------------
+
+- [Introduction to Filters and Transitions](http://msdn.microsoft.com/en-us/library/ms532847(v=vs.85).aspx) - Dive into the early ideas of CSS3, as they still were IE-specific filters. They can help you mimic CSS3 for oldIE
+- [Webkit CSS properties](http://css-infos.net/properties/webkit) - all webkit-specific CSS-properties with explanatory pages
+- [Webkit Extensions](https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference/Webkit_Extensions) - all webkit-specific CSS-properties with explanatory pages
+- [Mozilla CSS Extensions](https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference/Mozilla_Extensions) - all Mozilla-specific CSS-properties with explanations
+- [CSS Compatibility and Internet Explorer](http://msdn.microsoft.com/en-us/library/cc351024(v=vs.85).aspx) - Which properties does IE support since which version? First-hand informations from Microsoft
+- [webbrowsercompatibility.com](http://webbrowsercompatibility.com) - Compatibility tables showing support for front-end technologies in web browsers
+- [Browserhacks.com](http://browserhacks.com/) - extensive list of hacks and filters to separate browsers regarding version numbers
 
 
 Single articles of importance
@@ -63,15 +126,6 @@ Cheat sheets
 - [Animatable Properties](http://oli.jp/2010/css-animatable-properties/) - Which properties can be animated with CSS3?
 
 
-JavaScript libraries
-------------------------------------
-
-- [html5shiv](http://code.google.com/p/html5shiv/) - Enables the new HTML5 elements in IE < 9
-- [Prefix Free](http://leaverou.github.com/prefixfree/) - Automatic vendor prefixes for CSS3
-- [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
-- [JSWiki](https://github.com/bebraw/jswiki/wiki) - huge linklist
-
-
 CSS3 click & run
 ------------------------------------
 
@@ -104,36 +158,7 @@ Guides and coding standards
 - [Principles of writing consistent, idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
 - [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
 - [Front-end Code Standards & Best Practices](http://na.isobar.com/standards/)
-
-
-Accessibility
-------------------------------------
-
-- [Yahoo! Accessibiliy Blog](http://yaccessibilityblog.com/)
-- [Yahoo! Accessibility Library](http://yaccessibilityblog.com/library/)
-- [WCAG 2.0](http://www.w3.org/TR/2008/REC-WCAG20-20081211/) 
-- [WCAG2 Techniques](http://www.w3.org/TR/2012/NOTE-WCAG20-TECHS-20120103/)
-- [Using WAI-ARIA in HTML](http://www.w3.org/TR/2013/WD-aria-in-html-20130214/)
-- [The Accessibility Project](http://a11yproject.com/)
-- [WCAG Cheat Sheet](http://worksperfectly.net/wcag/)
-
-
-German Accessibility Ressources
-------------------------------------
-
-- [WCAG 2.0](http://www.w3.org/Translations/WCAG20-de/) 
-- [WCAG2 Techniken](http://www.einfach-fuer-alle.de/wcag2.0/uebersetzungen/WCAG20-TECHS/) 
-- [WCAG 2.0 im Überblick](http://www.einfach-fuer-alle.de/artikel/wcag-einfuehrung/) 
-
-
-Browser-specific informations
-------------------------------------
-
-- [Introduction to Filters and Transitions](http://msdn.microsoft.com/en-us/library/ms532847(v=vs.85).aspx) - Dive into the early ideas of CSS3, as they still were IE-specific filters. They can help you mimic CSS3 for oldIE
-- [Webkit CSS properties](http://css-infos.net/properties/webkit) - all webkit-specific CSS-properties with explanatory pages
-- [Webkit Extensions](https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference/Webkit_Extensions) - all webkit-specific CSS-properties with explanatory pages
-- [Mozilla CSS Extensions](https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference/Mozilla_Extensions) - all Mozilla-specific CSS-properties with explanations
-- [CSS Compatibility and Internet Explorer](http://msdn.microsoft.com/en-us/library/cc351024(v=vs.85).aspx) - Which properties does IE support since which version? First-hand informations from Microsoft
+- [Front end styleguides and pattern libraries](https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides) - very extensive list 
 
 
 Demos and experiments
@@ -160,36 +185,30 @@ Performance
 - [Ladezeitenoptimierung](http://www.der-schepp.de/wpo-slides-sept-2012/) - German
 
 
-jQuery
-------------------------------------
-
-- [jQuery Fundamentals](http://jqfundamentals.com/)
-- [jQuery Selectors](http://codylindley.com/jqueryselectors/) - test all the possible jQuery selectors on one page
-- [jQAPI - Alternative jQuery Documentation](http://jqapi.com/)
-- [Commonly Confused Bits Of jQuery](http://coding.smashingmagazine.com/2010/08/04/commonly-confused-bits-of-jquery/)
-
-
-Basic infos about CSS and HTML
-------------------------------------
-
-- [The Shapes of CSS](http://css-tricks.com/examples/ShapesOfCSS/) - Build hearts and other shapes only with CSS. 
-- [CSS-101](http://www.css-101.org/) Basic informations about CSS with little tests.
-- [CSS-Discuss Wiki](http://css-discuss.incutio.com/wiki/Main_Page) - Wiki of the internationally used mailing-list "css-discuss".
-- [Reine Formsache](http://www.einfach-fuer-alle.de/artikel/barrierefreie-formulare/) - German - Umfangreiche Darstellung über die wichtigsten Aspekte der Erstellung und Gestaltung von Formularen
-- [All about floats](http://css-tricks.com/all-about-floats/)
-- [HTML5 & CSS3 Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners) - 21 videos from Microsoft about frontend development.
-
-
 Sass and Compass
 ------------------------------------
 
 - [Sass - project page](http://sass-lang.com/)
 - [Compass - project page](http://compass-style.org/)
-- [Bourbon - collection of mixins](http://bourbon.io/)
-- [Zocial - CSS3 buttons](http://zocialbuttons.com/)
-- [Stitch - a CSS pattern framework for Compass](http://stitchcss.com/)
-- [Sassy buttons](http://jaredhardy.com/sassy-buttons/)
-- [Sassmeister - convert Sass into CSS online for demo purposes](http://sassmeister.com/)
-- [Presentation of Chris Eppstein about technical details of Sass and Compass](http://sass-can-do-that.herokuapp.com/)
+
 - [Compass Reference Browser](http://compass.aether.ru/)
 - [Better Sass Docs](http://www.kaelig.fr/bettersassdocs/)
+
+- [Stitch - a CSS pattern framework for Compass](http://stitchcss.com/)
+
+- [Bourbon - collection of mixins](http://bourbon.io/)
+- [Zocial - CSS3 buttons](http://zocialbuttons.com/)
+- [Sassy buttons](http://jaredhardy.com/sassy-buttons/)
+- [Font-icons](http://krisbulman.github.com/font-icons/) - Compass font-icons generator
+
+- [Sassmeister - convert Sass into CSS online for demo purposes](http://sassmeister.com/)
+- [Presentation of Chris Eppstein about technical details of Sass and Compass](http://sass-can-do-that.herokuapp.com/)
+
+
+Webfonts and Iconfonts
+------------------------------------
+- [We love Iconfonts](http://weloveiconfonts.com/)
+- [Font Custom](http://fontcustom.com/) - Generate custom icon webfonts from the comfort of the command line.
+- [Fontello](http://fontello.com/) - icon fonts generator
+- [FontSquirrel](http://www.fontsquirrel.com/)
+- [The League of Moveable Type](http://www.theleagueofmoveabletype.com/)
