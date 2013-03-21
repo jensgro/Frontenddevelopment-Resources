@@ -69,6 +69,7 @@ Accessibility
 - [Using WAI-ARIA in HTML](http://www.w3.org/TR/2013/WD-aria-in-html-20130214/)
 - [The Accessibility Project](http://a11yproject.com/)
 - [WCAG Cheat Sheet](http://worksperfectly.net/wcag/)
+- [WCAG 2 Quick Reference](http://www.3pha.com/wcag2/)
 
 
 German Accessibility Ressources
