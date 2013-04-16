@@ -70,6 +70,7 @@ Accessibility
 - [The Accessibility Project](http://a11yproject.com/)
 - [WCAG Cheat Sheet](http://worksperfectly.net/wcag/)
 - [WCAG 2 Quick Reference](http://www.3pha.com/wcag2/)
+- [HTML5Accessibility](http://www.html5accessibility.com/)
 
 
 German Accessibility Ressources
@@ -79,6 +80,13 @@ German Accessibility Ressources
 - [WCAG2 Techniken](http://www.einfach-fuer-alle.de/wcag2.0/uebersetzungen/WCAG20-TECHS/) 
 - [WCAG 2.0 im Überblick](http://www.einfach-fuer-alle.de/artikel/wcag-einfuehrung/) 
 
+
+Responsive Webdesign
+------------------------------------
+- [This is responsive](http://bradfrost.github.io/this-is-responsive/index.html) - patterns, resources, news
+- [MQtest.io](http://mqtest.io/) - A simple tool to help identify which media queries your device responds to.
+- [Palm Reader](http://www.jordanm.co.uk/palmreader) - Showing what @media features your device can and can't see
+- [Device pixel density tests](http://bjango.com/articles/min-device-pixel-ratio/)
 
 Browser-specific informations
 ------------------------------------
@@ -151,6 +159,9 @@ Tools
 - [rgab-argb-converter](http://beijingyoung.com/articles/rgba-argb-converter/) - Convert rgba to a hex-color that you can insert into an IE-filter.
 - [htaccess-editor](http://www.htaccesseditor.com/)
 - [Table styler](http://tablestyler.com/)
+- [Nice Entity](http://nice-entity.com/) - Quick References of Most Common Entities
+- [csscss](http://zmoazeni.github.io/csscss/) - find redundant rules in your CSS
+- [Emmet](http://emmet.io/) - the former zen-coding helps you coding faster in your editor or IDE
 
 
 Guides and coding standards
@@ -191,17 +202,13 @@ Sass and Compass
 
 - [Sass - project page](http://sass-lang.com/)
 - [Compass - project page](http://compass-style.org/)
-
 - [Compass Reference Browser](http://compass.aether.ru/)
 - [Better Sass Docs](http://www.kaelig.fr/bettersassdocs/)
-
 - [Stitch - a CSS pattern framework for Compass](http://stitchcss.com/)
-
 - [Bourbon - collection of mixins](http://bourbon.io/)
 - [Zocial - CSS3 buttons](http://zocialbuttons.com/)
 - [Sassy buttons](http://jaredhardy.com/sassy-buttons/)
 - [Font-icons](http://krisbulman.github.com/font-icons/) - Compass font-icons generator
-
 - [Sassmeister - convert Sass into CSS online for demo purposes](http://sassmeister.com/)
 - [Presentation of Chris Eppstein about technical details of Sass and Compass](http://sass-can-do-that.herokuapp.com/)
 
@@ -213,3 +220,4 @@ Webfonts and Iconfonts
 - [Fontello](http://fontello.com/) - icon fonts generator
 - [FontSquirrel](http://www.fontsquirrel.com/)
 - [The League of Moveable Type](http://www.theleagueofmoveabletype.com/)
+- [IcoMoon](http://icomoon.io/app/) - Browse and select icons to download them or make a font. You may import SVG images or fonts too.
