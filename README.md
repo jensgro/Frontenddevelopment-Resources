@@ -154,7 +154,7 @@ Tools
 - [Codepen](http://codepen.io/) - CSS-/JS-sandbox - livecoding
 
 - [CSS-Selectors](http://twostepmedia.co.uk/cssselectors/) - test the new CSS3-selectors with an example-text
-- [CSS3 structural pseudo-class selector tester](http://lea.verou.me/demos/nth.html) - testing the new pseudoclasses	:nth-child, - :nth-last-child, :nth-of-type and :nth-last-of-type
+- [CSS3 structural pseudo-class selector tester](http://lea.verou.me/demos/nth.html) - testing the new pseudoclasses :nth-child, :nth-last-child, :nth-of-type and :nth-last-of-type
 - [DataURI-converter](http://boazsender.github.com/datauri/) - Drag an image inside your browser and grab the data-uri. Unfortunataly this technique doesn't work in IE preceding version 8.
 - [rgab-argb-converter](http://beijingyoung.com/articles/rgba-argb-converter/) - Convert rgba to a hex-color that you can insert into an IE-filter.
 - [htaccess-editor](http://www.htaccesseditor.com/)
