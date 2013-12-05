@@ -30,11 +30,28 @@
 - [Learn CSS Layout](http://learnlayout.com/)
 - [Web Do's and Don'ts](http://webdosanddonts.com/)
 - [An Advanced Guide to HTML &amp; CSS](http://learn.shayhowe.com/advanced-html-css/)
+- [Modern CSS Layouts: The Essential Characteristics](http://coding.smashingmagazine.com/2009/10/26/modern-css-layouts-the-essential-characteristics/)
 
 ### German
 
 - [Reine Formsache](http://www.einfach-fuer-alle.de/artikel/barrierefreie-formulare/) - Umfangreiche Darstellung über die wichtigsten Aspekte der Erstellung und Gestaltung von Formularen
 - [Barrierefreie Datentabellen](http://www.einfach-fuer-alle.de/artikel/barrierefreie-datentabellen/) 
+
+----
+
+## Forms
+
+### English
+
+- [The ultimate overview for the new HTML5-formelements](http://wufoo.com/html5/)
+- [The Shadow-DOM](http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
+- [HTML5 Placeholder Styling with CSS](http://davidwalsh.name/html5-placeholder-css)
+
+
+### German
+
+- [Reine Formsache - **der** Überblick über Formulare](http://www.einfach-fuer-alle.de/artikel/barrierefreie-formulare/)
+- [Formularelemente nebeneinander in gleicher Höhe](http://jsfiddle.net/Flocke/y6aNw/) - (und Farbe der Placeholder-Attribute kontrollieren)
 
 ----
 
