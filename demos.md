@@ -9,5 +9,6 @@
 - [ZURB Playground](http://www.zurb.com/playground)
 - [The Web rocks!](http://thewebrocks.com/demos/) -  Demos made by Chris Heilmann
 - [html5-demos.appspot.com](http://html5-demos.appspot.com/)
+- [HTML5-Laboratory](http://html5laboratory.com/)
 
 **[← Back](README.md)**
