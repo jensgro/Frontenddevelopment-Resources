@@ -180,6 +180,56 @@
 - [Sassmeister](http://sassmeister.com/) - convert Sass into CSS online for demo purposes
 - [SassBin](http://sassbin.com/) - HTML/CSS/Sass-Sanbox with Compass-integration
 - [Presentation of Chris Eppstein about technical details of Sass and Compass](http://sass-can-do-that.herokuapp.com/)
+- [A directory of Sass and Compass Extensions](http://www.sache.in/)
+
+---------
+
+## Node.js
+
+- [Nodeschool](http://nodeschool.io/)
+- [Mixu's Node book](http://book.mixu.net/node/single.html)
+- [Node.js vs. PHP](http://flippinawesome.org/2013/09/03/node-js-vs-php/)
+- [An Introduction to Node.js for Front-End Developers](http://speckyboy.com/2013/11/13/node-js-for-front-end-developers/)
+- [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
+
+--------
+
+## Bower
+
+### English
+
+- [Meet Bower: A Package Manager For The Web](http://code.tutsplus.com/tutorials/meet-bower-a-package-manager-for-the-web--net-27774)
+- [Twitter Bower & Grunt: Get started with assets management](http://gpiot.com/blog/twitter-bower-grunt-get-started-with-assets-management/)
+- [Package Management for the Browser with Bower](http://www.sitepoint.com/package-management-for-the-browser-with-bower/)
+- [Bower, an assets package manager](http://www.synbioz.com/blog/bower)
+- [Using Bower with Sass and Compass](http://anthonyshort.me/using-bower-with-sass-and-compass/)
+
+### German
+
+- [Asset-Verwaltung mit Bower](http://yellowled.de/archiv/46/Asset-Verwaltung-mit-Bower.html)
+
+--------
+
+## Grunt
+
+### English
+
+- [A build tool for front-end projects](http://frederic-hemberger.de/artikel/grunt-buildtool-for-frontend-projects/)
+- [Speed Up Your Web Development Workflow with Grunt](http://sixrevisions.com/javascript/grunt-tutorial-01/)
+- [A tutorial for getting started with Grunt](http://www.justinmccandless.com/blog/A+Tutorial+for+Getting+Started+with+Grunt)
+- [Grunt-Presentation](http://andersjanmyr.github.io/grunt-presentation/#/)
+- [Grunt.js Workflow](http://www.merrickchristensen.com/articles/gruntjs-workflow.html)
+- [Workflow Automation with Grunt](http://abhishekdas.com/posts/automating-with-grunt/)
+- [Grunt Tips and Tricks](http://blog.ponyfoo.com/2013/11/13/grunt-tips-and-tricks)
+- [Grunt Tricks: Part One](http://dontkry.com/posts/code/grunt-tricks.html)
+- [Custom jQuery Builds with Grunt](http://javascriptplayground.com/blog/2013/04/custom-jquery-builds-with-grunt/)
+
+### German
+
+- [(Bessere) Projekt-Pakete schnüren mit Grunt](http://webkrauts.de/artikel/2012/build-tool-grunt)
+- [Grunt workflow inklusive Bildoptimierung](http://liechtenecker.at/grunt-workflow-inklusive-bildoptimierung/)
+- [Mein neues Build-Tool: Grunt](http://yellowled.de/archiv/36/Mein-neues-Build-Tool-Grunt.html)
+- [Grunt: LiveReload reloaded](http://yellowled.de/archiv/43/Grunt-LiveReload-reloaded.html)
 
 --------
 
