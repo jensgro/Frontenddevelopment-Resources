@@ -44,7 +44,7 @@
 - [Learn CSS-Selectors](http://flukeout.github.io/) 
 - [CSS-Selectors](http://twostepmedia.co.uk/cssselectors/) - test the new CSS3-selectors with an example-text
 - [CSS3 structural pseudo-class selector tester](http://lea.verou.me/demos/nth.html) - testing the new pseudoclasses :nth-child, :nth-last-child, :nth-of-type and :nth-last-of-type
-
+- The [specificity calculator](http://specificity.keegan.st/) tells you, which specificity your selectors have.
 
 ----
 
