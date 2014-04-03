@@ -137,6 +137,8 @@
 
 ## Browser-specific informations
 
+- [IE Platform Status](http://status.modern.ie/#/) - which features (HTML, CSS, JS) are built in IE, are yet planned or developed. For each feature the support in Chrome, Firefox and Safari is noted, too.
+- [Chromium Dashboard](http://www.chromestatus.com/features) - status of implementation of features (HTML, CSS, JS) in Blink (Chrome and Opera). Implementation status in IE, Firefox and Safari is noted, too.
 - [Introduction to Filters and Transitions](http://msdn.microsoft.com/en-us/library/ms532847(v=vs.85).aspx) - Dive into the early ideas of CSS3, as they still were IE-specific filters. They can help you mimic CSS3 for oldIE
 - [Webkit CSS properties](http://css-infos.net/properties/webkit) - all webkit-specific CSS-properties with explanatory pages
 - [Webkit Extensions](https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference/Webkit_Extensions) - all webkit-specific CSS-properties with explanatory pages
