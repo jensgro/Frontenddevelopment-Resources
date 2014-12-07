@@ -286,6 +286,7 @@
 - [CSS3 Animations](http://westciv.com/tools/animations/)
 - [Colorzilla Gradient Editor](http://www.colorzilla.com/gradient-editor/) - Create your gradients just like your browser and grab the code. The tool produces the final W3C-syntax and can create filters for the older IE and an SVG for IE9.
 - [i2Style](http://www.sciweavers.org/i2style) - create buttons with CSS3 inside your browser with ease
+- Want to [play with box-shadow](http://codepen.io/laviperchik/full/garfo/) to understand, how it works?
 
 ### Other Tools
 
