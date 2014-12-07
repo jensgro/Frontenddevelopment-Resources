@@ -31,6 +31,8 @@
 - [Web Do's and Don'ts](http://webdosanddonts.com/)
 - [An Advanced Guide to HTML &amp; CSS](http://learn.shayhowe.com/advanced-html-css/)
 - [Modern CSS Layouts: The Essential Characteristics](http://coding.smashingmagazine.com/2009/10/26/modern-css-layouts-the-essential-characteristics/)
+- [Interactive box-model demo](http://guyroutledge.github.io/box-model/)
+- [A To Z CSS](http://www.atozcss.com/) (short videotutorials)
 
 ### German
 
