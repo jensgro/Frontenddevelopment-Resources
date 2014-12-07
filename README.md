@@ -348,3 +348,39 @@
 - [BrowserSync](http://browsersync.io/)
 - [Remote-Preview](https://github.com/viljamis/Remote-Preview)
 - [BrowSync](http://browsync.net/)
+
+--------
+
+## Styleguides / Pattern Libraries
+
+- [Overview of Pattern Library Generators](https://github.com/davidhund/styleguide-generators)
+- [Styleguide Generator Roundup](http://welchcanavan.com/styleguide-roundup/)
+- [Flatdoc](http://ricostacruz.com/flatdoc/)
+- [Daux.io](http://daux.io/index)
+- [Styledocco](http://jacobrask.github.io/styledocco/)
+- [KSS - Knyle Style Sheets](http://warpspire.com/kss/)
+- [Kalei Style Guide](http://kaleistyleguide.com/#)
+- [Style-Guide-Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate)
+- [hologram](http://trulia.github.io/hologram/)
+
+
+-------
+
+## Colors
+
+- [Colorscheme Generator](http://www.perbang.dk/color+scheme/)
+- [Colors of bigger websites v1](http://brandcolors.net/)
+- [Colors of bigger websites v2](http://webcolourdata.com/)
+- [Adobe Kuler](https://kuler.adobe.com/de/create/color-wheel/)
+
+-------
+
+## Which capabilities has my browser/device?
+
+- [MyDevice.io](http://mydevice.io/)
+- [Device pixel density tests](http://bjango.com/articles/min-device-pixel-ratio/)
+- [Viewportsizes](http://viewportsizes.com/)
+- [What's my UserAgent?](http://whatsmyuseragent.com/)
+- [What's my browser?](http://www.whatsmybrowser.org/)
+- [HTML5-Test](http://html5test.com/)
+- [Can I Use](http://caniuse.com/)
