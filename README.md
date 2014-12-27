@@ -299,6 +299,7 @@
 - [Nice Entity](http://nice-entity.com/) - Quick References of Most Common Entities
 - [csscss](http://zmoazeni.github.io/csscss/) - find redundant rules in your CSS
 - [Emmet](http://emmet.io/) - the former zen-coding helps you coding faster in your editor or IDE
+- Extensive [linklist about (unixoid) shells](https://github.com/alebcay/awesome-shell)
 
 ------------
 
