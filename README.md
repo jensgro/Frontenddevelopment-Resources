@@ -260,6 +260,7 @@
 - [IcoMoon](http://icomoon.io/app/) - Browse and select icons to download them or make a font. You may import SVG images or fonts too.
 - [Favicon-Generator](http://realfavicongenerator.net/)
 
+
 ---------
 
 ## Cheat sheets
@@ -300,6 +301,7 @@
 - [csscss](http://zmoazeni.github.io/csscss/) - find redundant rules in your CSS
 - [Emmet](http://emmet.io/) - the former zen-coding helps you coding faster in your editor or IDE
 - Extensive [linklist about (unixoid) shells](https://github.com/alebcay/awesome-shell)
+- CSS [clip-path maker](http://bennettfeely.com/clippy/)
 
 ------------
 
@@ -387,3 +389,4 @@
 - [What's my browser?](http://www.whatsmybrowser.org/)
 - [HTML5-Test](http://html5test.com/)
 - [Can I Use](http://caniuse.com/)
+- [Tinytype](http://www.jordanm.co.uk/tinytype) - A compatibility table showing the available default system fonts across different mobile platforms.
