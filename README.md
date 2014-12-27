@@ -257,6 +257,7 @@
 - [FontSquirrel](http://www.fontsquirrel.com/)
 - [The League of Moveable Type](http://www.theleagueofmoveabletype.com/)
 - [IcoMoon](http://icomoon.io/app/) - Browse and select icons to download them or make a font. You may import SVG images or fonts too.
+- [Favicon-Generator](http://realfavicongenerator.net/)
 
 ---------
 
