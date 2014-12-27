@@ -370,6 +370,7 @@
 - [Kalei Style Guide](http://kaleistyleguide.com/#)
 - [Style-Guide-Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate)
 - [hologram](http://trulia.github.io/hologram/)
+- [Website Style Guide Resources](http://styleguides.io/) 
 
 
 -------
