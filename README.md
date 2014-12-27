@@ -340,6 +340,7 @@
 - [What the Heck is Shadow DOM?](http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 - [@font-face gotchas](http://paulirish.com/2010/font-face-gotchas/)
 - [A complete guide to the table-element](http://css-tricks.com/complete-guide-table-element/)
+- [Overview of placeholder-image services](http://codepen.io/jensgro/full/HFnsE)
 
 -------
 
