@@ -33,6 +33,7 @@
 - [Modern CSS Layouts: The Essential Characteristics](http://coding.smashingmagazine.com/2009/10/26/modern-css-layouts-the-essential-characteristics/)
 - [Interactive box-model demo](http://guyroutledge.github.io/box-model/)
 - [A To Z CSS](http://www.atozcss.com/) (short videotutorials)
+- [CSS Specificity Graph Generator](http://jonassebastianohlsson.com/specificity-graph/)
 
 ### German
 
