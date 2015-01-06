@@ -1,9 +1,9 @@
 # Frontend Development Resources
 
 ## Documentations and specifications
-### English 
-- [DocHub](http://dochub.io/) - Fast search inside of documentations: PHP, Python, jQuery and MDN for JavaScript, CSS, HTML and much more. 
-- [DevDocs](http://devdocs.io/) - Another nice and fast frontend for the Mozilla Docs about HTML, CSS, JS, DOM and the jQuery-docs, too 
+### English
+- [DocHub](http://dochub.io/) - Fast search inside of documentations: PHP, Python, jQuery and MDN for JavaScript, CSS, HTML and much more.
+- [DevDocs](http://devdocs.io/) - Another nice and fast frontend for the Mozilla Docs about HTML, CSS, JS, DOM and the jQuery-docs, too
 - [HTML5 Web Developer Edition](http://developers.whatwg.org/)
 - [The Web platform: Browser technologies](http://platform.html5.org/) - huge linklist for all modern webtechniques
 - [Annotated ECMAScript 5.1](http://es5.github.com/)
@@ -22,7 +22,7 @@
 
 ### English
 
-- [The Shapes of CSS](http://css-tricks.com/examples/ShapesOfCSS/) - Build hearts and other shapes only with CSS. 
+- [The Shapes of CSS](http://css-tricks.com/examples/ShapesOfCSS/) - Build hearts and other shapes only with CSS.
 - [CSS-101](http://www.css-101.org/) Basic informations about CSS with little tests.
 - [CSS-Discuss Wiki](http://css-discuss.incutio.com/wiki/Main_Page) - Wiki of the internationally used mailing-list "css-discuss".
 - [All about floats](http://css-tricks.com/all-about-floats/)
@@ -38,13 +38,13 @@
 ### German
 
 - [Reine Formsache](http://www.einfach-fuer-alle.de/artikel/barrierefreie-formulare/) - Umfangreiche Darstellung über die wichtigsten Aspekte der Erstellung und Gestaltung von Formularen
-- [Barrierefreie Datentabellen](http://www.einfach-fuer-alle.de/artikel/barrierefreie-datentabellen/) 
+- [Barrierefreie Datentabellen](http://www.einfach-fuer-alle.de/artikel/barrierefreie-datentabellen/)
 
 ----
 
 ## Selectors
 
-- [Learn CSS-Selectors](http://flukeout.github.io/) 
+- [Learn CSS-Selectors](http://flukeout.github.io/)
 - [CSS-Selectors](http://twostepmedia.co.uk/cssselectors/) - test the new CSS3-selectors with an example-text
 - [CSS3 structural pseudo-class selector tester](http://lea.verou.me/demos/nth.html) - testing the new pseudoclasses :nth-child, :nth-last-child, :nth-of-type and :nth-last-of-type
 - The [specificity calculator](http://specificity.keegan.st/) tells you, which specificity your selectors have.
@@ -74,7 +74,7 @@
 
 - [Yahoo! Accessibiliy Blog](http://yaccessibilityblog.com/)
 - [Yahoo! Accessibility Library](http://yaccessibilityblog.com/library/)
-- [WCAG 2.0](http://www.w3.org/TR/2008/REC-WCAG20-20081211/) 
+- [WCAG 2.0](http://www.w3.org/TR/2008/REC-WCAG20-20081211/)
 - [WCAG2 Techniques](http://www.w3.org/TR/2012/NOTE-WCAG20-TECHS-20120103/)
 - [Using WAI-ARIA in HTML](http://www.w3.org/TR/2013/WD-aria-in-html-20130214/)
 - [The Accessibility Project](http://a11yproject.com/)
@@ -85,8 +85,8 @@
 
 ### German
 
-- [WCAG 2.0](http://www.w3.org/Translations/WCAG20-de/) 
-- [WCAG2 Techniken](http://www.einfach-fuer-alle.de/wcag2.0/uebersetzungen/WCAG20-TECHS/) 
+- [WCAG 2.0](http://www.w3.org/Translations/WCAG20-de/)
+- [WCAG2 Techniken](http://www.einfach-fuer-alle.de/wcag2.0/uebersetzungen/WCAG20-TECHS/)
 - [WCAG 2.0 im Überblick](http://www.einfach-fuer-alle.de/artikel/wcag-einfuehrung/)
 
 -----
@@ -103,6 +103,15 @@
 
 ----
 
+## Flexbox
+
+- [A complete guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
+- [Flexbugs](https://github.com/philipwalton/flexbugs) - A list of flexbox issues and cross-browser workarounds for them.
+- [Normalizing Cross-browser Flexbox Bugs](http://philipwalton.com/articles/normalizing-cross-browser-flexbox-bugs/)
+
+----
+
 ## Basics about JavaScript
 
 ### English
@@ -112,7 +121,7 @@
 - [JavaScript For Cats](http://jsforcats.com/)
 - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/JavaScript/Guide) - Basic tutorials by Mozilla.
 - [Javascript Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners) - 21 tutorial videos by Microsoft.
-- [Perpetuating terrible JavaScript practices](http://christianheilmann.com/2013/10/31/perpetuating-terrible-javascript-practices/)- this article highlights some very basic errors in JS that won't die 
+- [Perpetuating terrible JavaScript practices](http://christianheilmann.com/2013/10/31/perpetuating-terrible-javascript-practices/)- this article highlights some very basic errors in JS that won't die
 - [Extensive linklist about everything JavaScript](https://github.com/sorrycc/awesome-javascript)
 
 ### German
@@ -152,7 +161,7 @@
 - [CSS Compatibility and Internet Explorer](http://msdn.microsoft.com/en-us/library/cc351024(v=vs.85).aspx) - Which properties does IE support since which version? First-hand informations from Microsoft
 - [webbrowsercompatibility.com](http://webbrowsercompatibility.com) - Compatibility tables showing support for front-end technologies in web browsers
 - [Browserhacks.com](http://browserhacks.com/) - extensive list of hacks and filters to separate browsers regarding version numbers
-- [smaller List of CSS-Hacks](https://github.com/ginader/CSS-Hacks) 
+- [smaller List of CSS-Hacks](https://github.com/ginader/CSS-Hacks)
 - [virtual IE-machines](http://www.modern.ie/en-us/virtualization-tools) - free virtual machines provided by Microsoft, even for OSX and Linux
 
 -------
@@ -201,6 +210,7 @@
 - [SassBin](http://sassbin.com/) - HTML/CSS/Sass-Sanbox with Compass-integration
 - [Presentation of Chris Eppstein about technical details of Sass and Compass](http://sass-can-do-that.herokuapp.com/)
 - [A directory of Sass and Compass Extensions](http://www.sache.in/)
+- [Sass Guidelines](http://sass-guidelin.es/)
 
 ---------
 
@@ -280,16 +290,16 @@
 
 ### Coding Sandboxes
 
-- [jsFiddle](http://jsfiddle.net/) 
-- [Dabblet](http://dabblet.com/) 
-- [JSBin](http://jsbin.com/)   
-- [Codepen](http://codepen.io/) 
+- [jsFiddle](http://jsfiddle.net/)
+- [Dabblet](http://dabblet.com/)
+- [JSBin](http://jsbin.com/)
+- [Codepen](http://codepen.io/)
 - [CSSDeck](http://cssdeck.com)
 - [Sassmeister](http://sassmeister.com/) - convert Sass into CSS online for demo purposes
 
 ### CSS3 click & run
 
-- [css3.mikeplate.com](http://css3.mikeplate.com/) - border-radius, box-shadow, text-shadow, transforms, columns, gradients, border, outline, multiple backgrounds 
+- [css3.mikeplate.com](http://css3.mikeplate.com/) - border-radius, box-shadow, text-shadow, transforms, columns, gradients, border, outline, multiple backgrounds
 - [CSS3Maker](http://www.css3maker.com/) - border-radius, gradients, transforms, animations, transition, rgba, text-shadow, box-shadow, text-rotation, @font-face
 - [CSS3 Animations](http://westciv.com/tools/animations/)
 - [Colorzilla Gradient Editor](http://www.colorzilla.com/gradient-editor/) - Create your gradients just like your browser and grab the code. The tool produces the final W3C-syntax and can create filters for the older IE and an SVG for IE9.
@@ -337,7 +347,7 @@
 
 ## Single articles of importance
 
-- [New form features in HTML5](http://dev.opera.com/articles/view/new-form-features-in-html5/) 
+- [New form features in HTML5](http://dev.opera.com/articles/view/new-form-features-in-html5/)
 - [Profiling CSS for fun and profit](http://perfectionkills.com/profiling-css-for-fun-and-profit-optimization-notes/) - Detailed analysis of the performance aspects of CSS3-properties.
 - [What the Heck is Shadow DOM?](http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 - [@font-face gotchas](http://paulirish.com/2010/font-face-gotchas/)
@@ -373,7 +383,7 @@
 - [Kalei Style Guide](http://kaleistyleguide.com/#)
 - [Style-Guide-Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate)
 - [hologram](http://trulia.github.io/hologram/)
-- [Website Style Guide Resources](http://styleguides.io/) 
+- [Website Style Guide Resources](http://styleguides.io/)
 
 
 -------
