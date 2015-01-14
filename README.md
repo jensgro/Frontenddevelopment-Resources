@@ -296,6 +296,7 @@
 - [Codepen](http://codepen.io/)
 - [CSSDeck](http://cssdeck.com)
 - [Sassmeister](http://sassmeister.com/) - convert Sass into CSS online for demo purposes
+- [Regexr](http://www.regexr.com/) - testing regular expressions live
 
 ### CSS3 click & run
 
@@ -409,3 +410,4 @@
 - [HTML5-Test](http://html5test.com/)
 - [Can I Use](http://caniuse.com/)
 - [Tinytype](http://www.jordanm.co.uk/tinytype) - A compatibility table showing the available default system fonts across different mobile platforms.
+- [What CSS to prefix?](http://shouldiprefix.com/)
