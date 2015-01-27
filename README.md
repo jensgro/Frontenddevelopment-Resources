@@ -163,6 +163,7 @@
 - [Browserhacks.com](http://browserhacks.com/) - extensive list of hacks and filters to separate browsers regarding version numbers
 - [smaller List of CSS-Hacks](https://github.com/ginader/CSS-Hacks)
 - [virtual IE-machines](http://www.modern.ie/en-us/virtualization-tools) - free virtual machines provided by Microsoft, even for OSX and Linux
+- [The Android Browser](http://slides.com/html5test/the-android-browser#/) - presentation about the very disparate Webkit-/Blink-platform on mobile devices
 
 -------
 
