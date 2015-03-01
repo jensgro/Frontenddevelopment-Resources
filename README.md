@@ -60,7 +60,7 @@
 - [The ultimate overview for the new HTML5-formelements](http://wufoo.com/html5/)
 - [The Shadow-DOM](http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 - [HTML5 Placeholder Styling with CSS](http://davidwalsh.name/html5-placeholder-css)
-
+- [List of Pseudo-Elements to Style Form Controls](http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/)
 
 ### German
 
@@ -126,6 +126,7 @@
 - [The Shadow-DOM](http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 - [Overview to pseudoelements](https://gist.github.com/webtobesocial/aefd6e25064c08e0cc9a)
 - [Shorter list of pseudoelements](http://realworldvalidator.com/css/pseudoelements)
+- [List of Pseudo-Elements to Style Form Controls](http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/)
 
 ----
 
