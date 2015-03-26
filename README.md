@@ -67,6 +67,7 @@
 - [formFive](http://etiennetalbot.github.io/formFive/) - Polyfill for legacy-browsers
 - [On the styling of forms ](http://www.brucelawson.co.uk/2013/on-the-styling-of-forms/)
 - [New Form Features in HTML5](https://dev.opera.com/articles/new-form-features-in-html5/)
+- [Numeric Inputs – A Comparison of Browser Defaults](https://css-tricks.com/numeric-inputs-a-comparison-of-browser-defaults/)
 
 ### German
 
