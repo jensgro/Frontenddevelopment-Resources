@@ -292,7 +292,6 @@
 
 ## Fonts, Webfonts and Iconfonts
 
-- [Tinytype](http://www.jordanm.co.uk/tinytype) - a compatibility table showing the available default system fonts across different mobile platforms
 - [We love Iconfonts](http://weloveiconfonts.com/)
 - [Font Custom](http://fontcustom.com/) - Generate custom icon webfonts from the comfort of the command line.
 - [Fontello](http://fontello.com/) - icon fonts generator
@@ -300,6 +299,7 @@
 - [The League of Moveable Type](http://www.theleagueofmoveabletype.com/)
 - [IcoMoon](http://icomoon.io/app/) - Browse and select icons to download them or make a font. You may import SVG images or fonts too.
 - [Favicon-Generator](http://realfavicongenerator.net/)
+- [Font Family Reunion](http://fontfamily.io/) - font-to-font mapping on different OS?
 
 
 ---------
@@ -333,6 +333,7 @@
 - [Colorzilla Gradient Editor](http://www.colorzilla.com/gradient-editor/) - Create your gradients just like your browser and grab the code. The tool produces the final W3C-syntax and can create filters for the older IE and an SVG for IE9.
 - [i2Style](http://www.sciweavers.org/i2style) - create buttons with CSS3 inside your browser with ease
 - Want to [play with box-shadow](http://codepen.io/laviperchik/full/garfo/) to understand, how it works?
+- [Select animations](http://anicollection.github.io/#/) and take the necessary code with you
 
 ### Other Tools
 
