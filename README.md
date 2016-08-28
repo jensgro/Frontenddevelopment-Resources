@@ -358,6 +358,7 @@ Fonts, Webfonts and Iconfonts
 -	[The League of Moveable Type](http://www.theleagueofmoveabletype.com/)
 -	[IcoMoon](http://icomoon.io/app/) - Browse and select icons to download them or make a font. You may import SVG images or fonts too.
 -	[Favicon-Generator](http://realfavicongenerator.net/)
+-	[Another Favicon-Generator](http://iconogen.com/)
 -	[Font Family Reunion](http://fontfamily.io/) - font-to-font mapping on different OS?
 -	[Font Library](http://katydecorah.com/font-library/) - An open source project to tag and organize Google Fonts.
 
