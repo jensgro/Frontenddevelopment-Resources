@@ -6,7 +6,6 @@ Documentations and specifications
 
 ### English
 
--	[DocHub](http://dochub.io/) - Fast search inside of documentations: PHP, Python, jQuery and MDN for JavaScript, CSS, HTML and much more.
 -	[DevDocs](http://devdocs.io/) - Another nice and fast frontend for the Mozilla Docs about HTML, CSS, JS, DOM and the jQuery-docs, too
 -	[HTML5 Web Developer Edition](http://developers.whatwg.org/)
 -	[The Web platform: Browser technologies](http://platform.html5.org/) - huge linklist for all modern webtechniques
@@ -102,6 +101,7 @@ Accessibility
 -	[Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/)
 -	[HTML5 Accessibility Chops: hidden and aria-hidden](https://www.paciellogroup.com/blog/2012/05/html5-accessibility-chops-hidden-and-aria-hidden/)
 -	[The state of hidden content support in 2016](https://www.paciellogroup.com/blog/2016/01/the-state-of-hidden-content-support-in-2016/)
+-	[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)
 
 ### German
 
@@ -155,6 +155,7 @@ SVG
 -	[Using SVG](https://css-tricks.com/using-svg/)
 -	[A guide to SVG <use> elements](http://taye.me/blog/svg/a-guide-to-svg-use-elements/)
 -	[Structuring, Grouping, and Referencing in SVG — The <g>, <use>, <defs> and <symbol> Elements](https://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/)
+-	[SVG can do that ?!?](http://talks.brennaobrien.com/svg/#/) - presentation on the many possibilities with SVG
 
 ### SVG Icons
 
