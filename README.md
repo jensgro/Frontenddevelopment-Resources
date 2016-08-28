@@ -81,7 +81,7 @@ Forms
 ### German
 
 -	[Reine Formsache - **der** Überblick über Formulare](http://www.einfach-fuer-alle.de/artikel/barrierefreie-formulare/)
--	[Formularelemente nebeneinander in gleicher Höhe](http://jsfiddle.net/Flocke/y6aNw/) - (und Farbe der Placeholder-Attribute kontrollieren)
+-	[Formularelemente nebeneinander in gleicher Höhe](http://codepen.io/jensgro/pen/qNZKGY) - (und Farbe der Placeholder-Attribute kontrollieren)
 
 ---
 
