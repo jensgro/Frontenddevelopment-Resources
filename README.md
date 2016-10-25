@@ -101,6 +101,7 @@ Accessibility
 -	[HTML5 Accessibility Chops: hidden and aria-hidden](https://www.paciellogroup.com/blog/2012/05/html5-accessibility-chops-hidden-and-aria-hidden/)
 -	[The state of hidden content support in 2016](https://www.paciellogroup.com/blog/2016/01/the-state-of-hidden-content-support-in-2016/)
 -	[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)
+-	[Web Accessibility Checklist](http://a11yproject.com/checklist.html)
 
 ### German
 
@@ -293,6 +294,7 @@ Sass and Compass
 -	[Presentation of Chris Eppstein about technical details of Sass and Compass](http://sass-can-do-that.herokuapp.com/)
 -	[A directory of Sass and Compass Extensions](http://www.sache.in/)
 -	[Sass Guidelines](http://sass-guidelin.es/)
+-	[Color-functions](http://jackiebalzer.com/color)
 
 ---
 
