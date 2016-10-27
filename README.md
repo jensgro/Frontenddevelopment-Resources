@@ -281,20 +281,21 @@ Sass and Compass
 ----------------
 
 -	[Sass - project page](http://sass-lang.com/)
+-	[Better Sass Docs](http://www.kaelig.fr/bettersassdocs/)
+-	[Sassmeister](http://sassmeister.com/) - convert Sass into CSS online for demo purposes
+-	[A directory of Sass and Compass Extensions](http://www.sache.in/)
+-	[Sass Guidelines](http://sass-guidelin.es/)
+-	[Color-functions](http://jackiebalzer.com/color)
+-	[CSS 2 Sass/SCSS Converter](http://css2sass.herokuapp.com/)
+-	[Sitepoint Sass Reference](https://www.sitepoint.com/sass-reference/)
+-	[Presentation of Chris Eppstein about technical details of Sass and Compass](http://sass-can-do-that.herokuapp.com/)
 -	[Compass - project page](http://compass-style.org/)
 -	[Compass Reference Browser](http://compass.aether.ru/)
--	[Better Sass Docs](http://www.kaelig.fr/bettersassdocs/)
 -	[Stitch - a CSS pattern framework for Compass](http://stitchcss.com/)
 -	[Bourbon - collection of mixins](http://bourbon.io/)
 -	[Zocial - CSS3 buttons](http://zocialbuttons.com/)
 -	[Sassy buttons](http://jaredhardy.com/sassy-buttons/)
 -	[Font-icons](http://krisbulman.github.com/font-icons/) - Compass font-icons generator
--	[Sassmeister](http://sassmeister.com/) - convert Sass into CSS online for demo purposes
--	[SassBin](http://sassbin.com/) - HTML/CSS/Sass-Sanbox with Compass-integration
--	[Presentation of Chris Eppstein about technical details of Sass and Compass](http://sass-can-do-that.herokuapp.com/)
--	[A directory of Sass and Compass Extensions](http://www.sache.in/)
--	[Sass Guidelines](http://sass-guidelin.es/)
--	[Color-functions](http://jackiebalzer.com/color)
 
 ---
 
@@ -363,8 +364,7 @@ Fonts, Webfonts and Iconfonts
 -	[Another Favicon-Generator](http://iconogen.com/)
 -	[Font Family Reunion](http://fontfamily.io/) - font-to-font mapping on different OS?
 -	[Font Library](http://katydecorah.com/font-library/) - An open source project to tag and organize Google Fonts.
-
----
+-	[An animated cheatsheet to typographic terms](https://www.supremo.tv/typeterms/) ---
 
 Cheat sheets
 ------------
@@ -373,6 +373,7 @@ Cheat sheets
 -	[HTML5 Canvas Cheat Sheet](http://blog.nihilogic.dk/2009/02/html5-canvas-cheat-sheet.html)
 -	[Animatable Properties](http://oli.jp/2010/css-animatable-properties/) - Which properties can be animated with CSS3?
 -	[Easing functions](http://easings.net/) - in CSS, SCSS and JavaScript
+-	[An animated cheatsheet to typographic terms](https://www.supremo.tv/typeterms/) ---
 
 ---
 
