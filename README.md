@@ -1,25 +1,32 @@
 Frontend Development Resources
 ==============================
 
+Important Basics
+----------------
+
 -	[Documentations and specifications](documentations-and-specifications.md)
--	[Basic infos about CSS and HTML](basic-infos-about-css-and-html.md)
--	[Selectors](selectors.md)
 -	[Accessibility](a11y.md)
 -	[Responsive Webdesign](rwd.md)
--	[Flexbox](flexbox.md)
--	[Forms](forms.md)
 -	[SVG](svg.md)
 -	[Performance](performance.md)
+
+Design
+------
+
+-	[Fonts, Webfonts and Iconfonts](fonts.md)
+-	[Design and UX](design-ux.md)
+
+HTML and CSS
+------------
+
+-	[Basic infos about CSS and HTML](basic-infos-about-css-and-html.md)
+-	[Selectors](selectors.md)
+-	[Flexbox](flexbox.md)
+-	[Forms](forms.md)
 -	[Animation](animation.md)
 -	[Sass](sass.md)
--	[Fonts, Webfonts and Iconfonts](fonts.md)
 -	[Cheatsheets](cheatsheets.md)
 -	[Bootstrap](bootstrap.md)
--	[Guides and coding standards](guides-and-coding-standards.md)
--	[Demos and experiments](demos-and-experiments.md)
--	[Single articles of importance](single-articles-of-importance.md)
--	[Blogs](blogs.md)
--	[Design and UX](design-ux.md)
 
 JavaScript
 ----------
@@ -30,6 +37,14 @@ JavaScript
 -	[Node.js](node.md)
 -	[Bower](bower.md)
 -	[Grunt](grunt.md)
+
+Mixed Topics
+------------
+
+-	[Guides and coding standards](guides-and-coding-standards.md)
+-	[Demos and experiments](demos-and-experiments.md)
+-	[Single articles of importance](single-articles-of-importance.md)
+-	[Blogs](blogs.md)
 
 Browsers
 --------
