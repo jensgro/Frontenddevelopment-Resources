@@ -36,7 +36,7 @@ JavaScript
 -	[jQuery](jquery.md)
 -	[Node.js](node.md)
 -	[Bower](bower.md)
--	[Grunt](grunt.md)
+-	[Grunt](grunt/README.md)
 
 Mixed Topics
 ------------
