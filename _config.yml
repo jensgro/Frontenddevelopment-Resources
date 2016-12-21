@@ -1,0 +1,8 @@
+title: Frontenddevelopment-resources
+description: Curated list of recommended resources for frontend-development
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
