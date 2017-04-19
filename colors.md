@@ -6,3 +6,4 @@ Colors
 -	[Colors of bigger websites v2](http://webcolourdata.com/)
 -	[Adobe Kuler](https://kuler.adobe.com/de/create/color-wheel/)
 -	[Color Hunt](http://colorhunt.co/) - Curated collection of beautiful colors, updated daily.
+-	[Hex Naw](https://hexnaw.com/) - A color accessibility tool for designers and developers.
