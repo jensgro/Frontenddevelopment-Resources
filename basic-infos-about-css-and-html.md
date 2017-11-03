@@ -17,6 +17,7 @@ English
 -	[A To Z CSS](https://www.sitepoint.com/tag/atoz-css/) (short videotutorials)
 -	[CSS Specificity Graph Generator](http://jonassebastianohlsson.com/specificity-graph/)
 -	[HTML5 Video Events and API](http://www.w3.org/2010/05/video/mediaevents.html) - This page demonstrates the new HTML5 video element, its media API, and the media events.
+- [A free guide to <head> elements](http://gethead.info/)
 
 German
 ------

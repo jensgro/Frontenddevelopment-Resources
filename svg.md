@@ -14,6 +14,7 @@ SVG in general
 -	[svg-weirdness](https://github.com/emilbjorklund/svg-weirdness/issues) - This Github-repo aims to collect SVG-related bugs in browsers. And there are plenty.
 -	[How to work with SVG icons ](https://fvsch.com/code/svg-icons/how-to/#fx-use-selector-bug)
 -	[flaticon](http://www.flaticon.com/) - Looking for special SVGs? This site might get you covered.
+- [SVG can do THAT?!](http://slides.com/sdrasner/svg-can-do-that#/) - presentation notes frm Sara Drasner
 
 SVG Icons
 ---------

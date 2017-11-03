@@ -15,3 +15,4 @@ Flexbox
 -	[Fixed with Flexbox by matt-soria](http://slides.com/matt-soria/flexbox#/)
 -	[flexbox in 5 minutes](http://flexboxin5.com/)
 -	[CodePen - Flexbox Properties Demonstration](http://codepen.io/justd/full/yydezN/)
+- [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox) - curated linklist

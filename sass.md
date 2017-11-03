@@ -15,3 +15,4 @@ Sass and Compass
 -	[CSSPre](http://csspre.com/) - information hub about preprocessors with comparison of abilities
 -	[Ruby-tool for converting Less to SCSS](https://github.com/brauliobo/less2sass)
 -	[How to convert Less to Sass manually](http://mstrutt.co.uk/blog/2013/08/converting-from-less-to-sass/)
+- [Awesome Sass](https://github.com/Famolus/awesome-sass) - curated linklist

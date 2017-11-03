@@ -12,6 +12,8 @@ English
 -	[Perpetuating terrible JavaScript practices](http://christianheilmann.com/2013/10/31/perpetuating-terrible-javascript-practices/)- this article highlights some very basic errors in JS that won't die
 -	[Extensive linklist about everything JavaScript](https://github.com/sorrycc/awesome-javascript)
 -	[JavaScript Equality-Table](http://dorey.github.io/JavaScript-Equality-Table/)
+- [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
+- [ES2015+ cheatsheet](https://devhints.io/es6)
 
 German
 ------

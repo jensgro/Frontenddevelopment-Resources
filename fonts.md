@@ -14,3 +14,5 @@ Fonts, Webfonts and Iconfonts
 -	[An animated cheatsheet to typographic terms](https://www.supremo.tv/typeterms/)
 -	[Webfonts.info](http://webfonts.info/) - Type and Typography on the Web
 -	[Using @font-face](https://css-tricks.com/snippets/css/using-font-face/)
+-	[Font Mfizz - Vector Icons for Technology and Software Geeks](http://fizzed.com/oss/font-mfizz)
+-	[Devicon](http://konpa.github.io/devicon/)

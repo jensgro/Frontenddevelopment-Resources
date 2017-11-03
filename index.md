@@ -27,6 +27,7 @@ HTML and CSS
 -	[Sass](sass.md)
 -	[Cheatsheets](cheatsheets.md)
 -	[Bootstrap](bootstrap.md)
+- [CSS-Grid](css-grids.md)
 
 JavaScript
 ----------
@@ -36,7 +37,7 @@ JavaScript
 -	[jQuery](jquery.md)
 -	[Node.js](node.md)
 -	[Bower](bower.md)
--	[Grunt](grunt/README.md)
+-	[Grunt](grunt.md)
 
 Mixed Topics
 ------------

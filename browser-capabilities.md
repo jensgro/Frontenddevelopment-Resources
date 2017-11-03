@@ -11,3 +11,4 @@ Which capabilities has my browser/device?
 -	[Can I Use](http://caniuse.com/)
 -	[Tinytype](http://www.jordanm.co.uk/tinytype) - A compatibility table showing the available default system fonts across different mobile platforms.
 -	[What CSS to prefix?](http://shouldiprefix.com/)
+- [haz.io](http://haz.io/) - Which capabilities has your browser? Modernizr is used to check the browser's capabilities.
