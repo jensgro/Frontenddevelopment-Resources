@@ -38,6 +38,7 @@ JavaScript
 -	[Node.js](node.md)
 -	[Bower](bower.md)
 -	[Grunt](grunt.md)
+. [WebComponents](webcomponents.md)
 
 Mixed Topics
 ------------
