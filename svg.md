@@ -25,3 +25,4 @@ SVG Icons
 -	[Case Study: Our SVG Icon Process](http://blog.cloudfour.com/our-svg-icon-process/)
 -	[SVG-sprite](http://jkphl.github.io/svg-sprite/)
 -	[SVG Icons FTW](http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/)
+- [The Doodle Library](https://www.thedoodlelibrary.com/) - icons that look like hand drawn (Creative Commons 4.0-licence)
